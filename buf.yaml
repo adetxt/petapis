@@ -1,5 +1,5 @@
 version: v1
-name: buf.build/adetxt/petapis
+name: github.com/adetxt/petapis
 deps:
   - buf.build/googleapis/googleapis
 breaking:
